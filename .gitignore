@@ -1,0 +1,29 @@
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# sbt specific
+target/
+project/target/
+project/project/
+lib_managed/
+src_managed/
+.cache
+.history
+
+# Build results
+out/
+
+# BSP (Build Server Protocol) specific directory
+.bsp/
+
+# Compiled class files
+*.class
+
+# Package Files #
+*.jar
+
+# Logs
+*.log
